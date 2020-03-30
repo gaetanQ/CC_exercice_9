@@ -1,0 +1,69 @@
+body, html{
+    margin: 0;
+    height: 100%;
+}
+
+.bloc1{
+    background-color: mediumseagreen;
+    color: mediumseagreen;
+    float: left;
+    width: 80%;
+    height: 5%;
+}
+.bloc2{
+    background-color: royalblue;
+    color: royalblue;
+    float: right;
+    width: 20%;
+    height: 5%;
+
+}
+.bloc3{
+    background-color: orangered;
+    color: orangered;
+    float:left;
+    width: 30%;
+    height: 15%;
+}
+.bloc4{
+    background-color:orange ;
+    color: orange;
+    float: left;
+    width: 30%;
+    height: 7.5%; 
+}
+.bloc5{
+    background-color: rgb(110, 109, 107);
+    color: rgb(110, 109, 107);
+    float: left;
+    width: 40%;
+    height: 7.5%;
+}
+.bloc6{
+    background-color: darkorange;
+    color: darkorange;
+    float: left;
+    width: 20%;
+    height: 7.5%;
+}
+.bloc7{
+    background-color: rgb(8, 110, 71);
+    color: rgb(8, 110, 71);
+    float:left;
+    width: 20%;
+    height: 7.5%;
+}
+.bloc8{
+    background-color: rgb(194, 92, 8);
+    color: rgb(194, 92, 8);
+    float:left;
+    width: 30%;
+    height: 7.5%;
+}
+.bloc9{
+    background-color: rgb(37, 37, 37);
+    color:  rgb(37, 37, 37);
+    float: left;
+    width: 100%;
+    height: 50%;
+}
